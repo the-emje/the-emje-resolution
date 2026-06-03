@@ -1,7 +1,15 @@
 Detail Skill yang perlu dikuasai:
 1. Master AI dengan claude, gemini, chat-gpt.
-  - Claude AI, chat, code, cowork
+  - Claude AI, Gemini, Chat GPT
+  - Image and video generation
+  - Master Prompt
 2. Otomasi dengan AI
   - N8N
   - Python
+  - Firebase
 3. Vibecoding
+  - full stack dengan python
+  - full stack web apps
+4. Local LM
+  - Ollama
+  - LMStudio
