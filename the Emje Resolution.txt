@@ -2,3 +2,5 @@ Resolusi the Emje:
 1. Memiliki skill AI
 2. Memiliki skill vibecoding, claude code
 3. Memiliki skill N8N
+4. Memiliki skill git
+5. Memiliki skill vps
