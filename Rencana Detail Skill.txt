@@ -1,1 +1,7 @@
-
+Detail Skill yang perlu dikuasai:
+1. Master AI dengan claude, gemini, chat-gpt.
+  - Claude AI, chat, code, cowork
+2. Otomasi dengan AI
+  - N8N
+  - Python
+3. Vibecoding
