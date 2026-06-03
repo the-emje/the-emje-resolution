@@ -13,3 +13,4 @@ Detail Skill yang perlu dikuasai:
 4. Local LM
   - Ollama
   - LMStudio
+5. Embedded system
