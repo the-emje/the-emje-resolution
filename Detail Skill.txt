@@ -10,7 +10,6 @@ Detail Skill yang perlu dikuasai:
 3. Vibecoding
   - full stack dengan python
   - full stack web apps
-4. Local LM
-  - Ollama
-  - LMStudio
-5. Embedded system
+4. Embedded system
+  - Jetson Nano
+  - ESP32
