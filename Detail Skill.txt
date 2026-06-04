@@ -7,10 +7,13 @@ Detail Skill yang perlu dikuasai:
   - N8N
   - Python
   - Firebase
+  - Postgree sql
 3. Vibecoding
   - full stack dengan python
   - full stack web apps
+  - full stack mobile apps
 4. Local LM
   - Ollama
   - LMStudio
 5. Embedded system
+  - Jetson Nano
